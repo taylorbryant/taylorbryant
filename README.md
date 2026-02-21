@@ -1,5 +1,6 @@
 ### Hi, I’m Taylor. 👋
-I build software to raise awareness and provide effective treatment for OCD at [NOCD](https://treatmyocd.com). In my spare time, I write music and build fun projects – right now, I'm tinkering with [Contract Kit](https://contractkit.dev). 
+
+I lead the web team at [Noto](https://noto.ai), where I design and build software to help end the mental health crisis. In my spare time, I like to play guitar and build side projects. 
 
 #### Elsewhere
 * [LinkedIn](https://linkedin.com/in/taylorjamesbryant)
